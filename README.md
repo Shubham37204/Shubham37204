@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋
+👋 I'm Shubham!
+🎓 MCA Student @ BIT Mesra, Ranchi | 🎓 BCA Graduate @ BIT Mesra, Ranchi
+🌐 Web Developer | ☁️ Cloud Computing Enthusiast
+🚀 Passionate about React, Django, and Next.js
 
-<!--
-**Shubham37204/Shubham37204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tech Stack:
+Frontend: React, Next.js, HTML, CSS, Tailwind CSS
+Backend: Django, Python, REST APIs
+Programming: Java, Python, C++
+Databases: SQL (MySQL, PostgreSQL)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Exploring:
+Advanced React concepts (e.g., Server Components, Suspense)
+Cloud Computing platforms (AWS, GCP)
+Building scalable Web Applications
