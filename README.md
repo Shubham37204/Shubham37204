@@ -11,6 +11,6 @@ Programming: Java, Python, C++
 Databases: SQL (MySQL, PostgreSQL)
 
 🚀 Currently Exploring:
-Advanced React concepts 
-Cloud Computing platforms
+Advanced React concepts, 
+Cloud Computing platforms,
 Building scalable Web Applications
