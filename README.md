@@ -6,7 +6,7 @@ Hi there 👋
 
 🔧 Tech Stack:
 Frontend: React, Next.js, HTML, CSS, Tailwind CSS
-Backend: Django, Python, REST APIs
+Backend: Nodejs, ExpreeJs, Django, Python, REST APIs
 Programming: Java, Python, C++
 Databases: SQL (MySQL, PostgreSQL)
 
