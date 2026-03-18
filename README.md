@@ -51,6 +51,14 @@ Building real-world web applications
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/your-link  
+LinkedIn: https://www.linkedin.com/in/shubham-bhardwaj-83028b212/
 Portfolio: (if you create one later)  
-Email: your-email@gmail.com
+Email: shubhambhardwaj9575@gmail.com
+
+## 📊 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham37204&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham37204&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shubham37204&theme=tokyonight)
