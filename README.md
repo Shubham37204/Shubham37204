@@ -1,10 +1,21 @@
-## Hi there 👋 I'm Shubham  
+Hi 👋 I'm Shubham Bhardwaj
 
-🎓 **MCA Student @ BIT Mesra, Ranchi**  
-🎓 **BCA Graduate @ BIT Mesra, Ranchi**  
+💻 Software Engineer | Full-Stack Development
+⚡ React • Next.js • Python • Django
+🤖 Interested in Machine Learning & AI Applications
+☁️ Exploring AWS & Cloud Technologies
 
-🌐 **Web Developer** | ☁️ **Cloud & AI Enthusiast**  
-🚀 Exploring **AI, LLMs**, and building **scalable backend systems**  
+🎓 MCA Student @ BIT Mesra, Ranchi
+
+I enjoy working on web development, backend systems, and AI-related projects, while continuously improving my skills in modern full-stack technologies and cloud platforms.
+
+🚀 Currently Exploring
+
+Large Language Models (LLMs)
+Backend development with FastAPI & Django
+Cloud deployment using AWS
+Building real-world web applications
+
 
 ## 🚀 Tech Stack
 
@@ -37,8 +48,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-### 🔍 Currently Exploring
-- 🤖 Artificial Intelligence & Large Language Models (LLMs)  
-- ☁️ AWS & Cloud Architecture  
-- ⚙️ FastAPI-based scalable backend systems  
-- 🧩 Real-world AI-integrated web applications  
+
+## 🌐 Connect With Me
+
+LinkedIn: https://linkedin.com/in/your-link  
+Portfolio: (if you create one later)  
+Email: your-email@gmail.com
