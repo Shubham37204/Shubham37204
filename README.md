@@ -1,4 +1,4 @@
-Hi 👋 I'm Shubham Bhardwaj
+Hi I'm Shubham Bhardwaj
 
 💻 Software Engineer | Full-Stack Development
 ⚡ React • Next.js • Python • Django
