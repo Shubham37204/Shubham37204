@@ -68,10 +68,3 @@ Building real-world web applications
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham37204&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shubham37204&theme=tokyonight)
-
-
-## 🌐 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/shubham-bhardwaj-83028b212/ 
-Email: shubhambhardwaj9575@gmail.com
-
